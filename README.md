@@ -4,7 +4,11 @@ Web application for managing Docker using Python Django
 
 
 pip install django
+
+
 pip install docker
+
+
 python3 manage.py runserver
 
 
