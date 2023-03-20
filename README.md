@@ -33,5 +33,7 @@ python3 manage.py runserver \n
 
 http://127.0.0.1:8000/
 
-![alt text](http://url/to/img.png)
+# Screenshot
+
+![alt text](196151615-cba29330-4ca4-49f1-9dd3-6e55bb84ccd8.png)
 
