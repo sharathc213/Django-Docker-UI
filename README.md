@@ -5,13 +5,13 @@ The platform provides a user-friendly interface that allows users to manage thei
 
 # Features
 
-1. Web-based user interface: Docker Manager provides a user-friendly web interface for managing Docker containers and resources, making it easy for users to create, start, stop, and manage their containers without the need for complex command-line interfaces./n
+1. Web-based user interface: Docker Manager provides a user-friendly web interface for managing Docker containers and resources, making it easy for users to create, start, stop, and manage their containers without the need for complex command-line interfaces.
 
-2. Docker Python package integration: Docker Manager integrates with the Docker Python package, allowing users to seamlessly interact with Docker from the web interface./n
+2. Docker Python package integration: Docker Manager integrates with the Docker Python package, allowing users to seamlessly interact with Docker from the web interface.
 
-3. Docker shell communication: Docker Manager allows users to communicate with the Docker shell directly from the web interface, providing users with the ability to execute Docker commands without leaving the platform.\n
+3. Docker shell communication: Docker Manager allows users to communicate with the Docker shell directly from the web interface, providing users with the ability to execute Docker commands without leaving the platform.
 
-4. Session support: Docker Manager supports user sessions, allowing users to log in to the platform and securely manage their containers and resources, with their settings and configurations saved across multiple visits.\n
+4. Session support: Docker Manager supports user sessions, allowing users to log in to the platform and securely manage their containers and resources, with their settings and configurations saved across multiple visits.
 
 5. Scalability and extensibility: Docker Manager is built on top of the Django web framework and is designed to be scalable and extensible, allowing users to easily add new features and functionality as their needs evolve.
 
@@ -32,4 +32,6 @@ python3 manage.py runserver \n
 # usage:
 
 http://127.0.0.1:8000/
+
+![alt text](http://url/to/img.png)
 
